@@ -1,4 +1,4 @@
-## Welcome to My GitHub Portfolio Pages
+## Welcome to My Portfolio Pages
 
 Here you can see some projects I already worked in my career.
 

@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Portfolio Pages
+
+Here you can see some projects I already worked on.
 
 You can use the [editor on GitHub](https://github.com/wandereralex/sql.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
